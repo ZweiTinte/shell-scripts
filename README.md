@@ -1,2 +1,2 @@
-# backup-script
-A bash script for monthly backups on linux, needs to be adjusted to what you want to backup
+# shell scripts collection
+A small collection of shell script helpers. I'll add some more scripts from time to time to this.
